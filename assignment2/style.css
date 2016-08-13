@@ -85,3 +85,21 @@ li {
     background-color: #4aaaa5;
 }
 
+.panel-title{
+    color: #4aaaa5;
+}
+
+.footer {
+    background-color: lightgrey;
+}
+
+#form h2{
+    color: #4aaaa5;
+    border-bottom:solid;
+}
+
+.portfolio-header {
+    color: #4aaaa5;
+    margin-left: 15px;
+    border-bottom: solid;
+}
