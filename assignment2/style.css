@@ -1,6 +1,6 @@
 .navbar-brand{
     background-color: #4aaaa5;
-    width: 300px;
+    width: 100%;
     height: 70px;
     color: #fff;
     text-align:center;
@@ -13,6 +13,8 @@
     background-color: #FFFF;
     display: inline;
     padding: 2px;
+    
+    width: 100%;
 }
 
 a {
