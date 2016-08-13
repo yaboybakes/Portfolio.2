@@ -1,0 +1,87 @@
+.navbar-brand{
+    background-color: #4aaaa5;
+    width: 300px;
+    height: 70px;
+    color: #fff;
+    text-align:center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.navbar-custom {
+    color: lightgrey;
+    background-color: #FFFF;
+    display: inline;
+    padding: 2px;
+}
+
+a {
+    color:darkgrey;
+}
+
+li {
+    float:left;
+}
+
+.content {
+   background: url('../assignment1/portoflioo/assets/images/restaurant_icons.png'); 
+   width: 680px;
+   height: 700px;
+   margin-left: 20px;
+    }
+
+.portfolio-item {
+    float:left;
+    width:45%;
+    padding: 10px;
+    margin-left:10px;
+    z-index: 0;
+    margin-bottom: -50px;
+}
+
+.portfolio-item:nth-child(odd) {
+    margin-left: -1px;
+}
+
+.portfolio-item img {
+    max-width:100%;;
+    margin: auto 20px 50px auto;
+    float:left;
+}
+
+.portfolio-title {
+    background: #4aaaa5;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    z-index: 12;
+    height: 20px;
+    position: absolute;
+    display: inline;
+    margin-left: -290px;
+    margin-top: 140px;
+    width: 250px
+    
+}
+
+.post-content {
+    background: none repeat scroll 0 0 #4aaaa5;
+    opacity: 1;
+    bottom: 10;
+    left:0;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    height: 40px;
+    font-size: 20px;
+}
+
+.thumbnail{
+    position:relative;
+    
+}
+
+.btn {
+    background-color: #4aaaa5;
+}
+
