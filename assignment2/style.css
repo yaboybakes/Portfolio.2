@@ -105,3 +105,18 @@ li {
     margin-left: 15px;
     border-bottom: solid;
 }
+#bg {
+    background: url(assets/images/restaurant_icons.png);
+    background-position: bottom;
+    border:  1px solid #C0C0C0;
+}
+
+.footy{
+    height: 70px;
+    background-color: lightgrey;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    width: 100%;
+}
